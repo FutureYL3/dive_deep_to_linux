@@ -1,0 +1,6 @@
+[submodule "visualinux"]
+	path = visualinux
+	url = https://github.com/icsnju/visualinux
+[submodule "linux-0.11"]
+	path = linux-0.11
+	url = https://github.com/FutureYL3/linux-0.11
